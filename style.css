@@ -1,0 +1,14 @@
+div{
+    position:relative;
+    top:50px;
+}
+
+#DR {
+    width:500px;
+    border-radius: 10px;
+
+}
+.drag{
+    width:500px;
+    border-radius: 50%;
+}
